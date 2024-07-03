@@ -15,6 +15,6 @@ For students: [Meteorological Bachelor/Master's thesis topics](https://lkugler.g
 
 For researchers: [Here's a summary of my papers](https://lkugler.github.io/blog)
 
-Read my [dissertation](https://lkugler.github.io/files/dissertation_kugler.pdf).
+Read my [dissertation](https://lkugler.github.io/files/dissertation.pdf).
 
 About me: [Read my curriculum vitae](https://lkugler.github.io/cv)
