@@ -11,4 +11,4 @@ author_profile: true
 
 # {% include base_path %}
 
-<object data="https://scholar.google.com/citations?user=3v4r1p8AAAAJ&hl=en" width="800" height="500"></object>
+<object data="{{site.author.googlescholar}}" width="800" height="500"></object>
