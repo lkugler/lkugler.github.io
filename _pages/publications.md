@@ -10,7 +10,5 @@ author_profile: true
 {% endif %}
 
 # {% include base_path %}
-#
-# {% for post in site.publications reversed %}
-#  {% include archive-single.html %}
-# {% endfor %}
+
+<embed src="https://scholar.google.com/citations?user=3v4r1p8AAAAJ&hl=en" style="width:800px; height: 500px;">
