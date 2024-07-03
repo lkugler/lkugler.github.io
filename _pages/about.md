@@ -9,8 +9,8 @@ redirect_from:
 
 Welcome to my personal website.
 
-For students: [Are you interested in a Meteorological thesis topic?](https://lkugler.github.io/teaching)
+For students: [Meteorological Bachelor/Master thesis topics](https://lkugler.github.io/teaching)
 
-For researchers: [See a summary of my papers](https://lkugler.github.io/blog)
+For researchers: [Summary of my papers](https://lkugler.github.io/blog)
 
 About me: [Read my curriculum vitae](https://lkugler.github.io/cv)
