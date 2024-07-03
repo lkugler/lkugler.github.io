@@ -11,4 +11,4 @@ author_profile: true
 
 # {% include base_path %}
 
-<embed src="https://scholar.google.com/citations?user=3v4r1p8AAAAJ&hl=en" style="width:800px; height: 500px;">
+<object><embed src="https://scholar.google.com/citations?user=3v4r1p8AAAAJ&hl=en" style="width:800px; height: 500px;"></object>
