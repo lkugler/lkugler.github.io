@@ -9,7 +9,7 @@ tags:
 
 My first publication investigates the potential benefit of visible and infrared assimilation.
 
-![GIF of the nature run simulation](https://lkugler.github.io/paper1.gif)
+![GIF of the nature run simulation](https://lkugler.github.io/files/paper1.gif)
 
 ## Potential impact of assimilating visible and infrared satellite observations
 
