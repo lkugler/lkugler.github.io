@@ -1,7 +1,7 @@
 ---
 title: 'Visible and infrared channels for convective-scale NWP'
 date: 2024-07-04
-permalink: /posts/paper1/
+permalink: /posts/2024-07-04-potential/
 tags:
   - visible assimilation
   - infrared assimilation
