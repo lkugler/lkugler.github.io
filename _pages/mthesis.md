@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: "MSc thesis"
-permalink: /mtheses/
+permalink: /mthesis/
 author_profile: true
 ---
 
