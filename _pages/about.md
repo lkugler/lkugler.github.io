@@ -7,14 +7,8 @@ redirect_from:
   - /about.html
 ---
 
-I am a research scientist in ensemble data assimilation of satellite observations for numerical weather prediction.
-...
-...
+I'm a research scientist in Meteorology.
 
-For students: [Meteorological Bachelor/Master's thesis topics](https://lkugler.github.io/teaching)
-
-For researchers: [Here's a summary of my papers](https://lkugler.github.io/blog)
-
-Read my [dissertation](https://lkugler.github.io/files/dissertation.pdf).
+For researchers: See my [Research Blog](https://lkugler.github.io/blog) for my latest work and [Publications](https://lkugler.github.io/publications) for my papers and theses.
 
 About me: [Read my curriculum vitae](https://lkugler.github.io/cv)
