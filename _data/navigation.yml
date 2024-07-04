@@ -8,9 +8,6 @@ main:
 
 #  - title: "Supervision"
 #    url: /supervision/    
-    
-  - title: "Theses"
-    url: /theses/
 
   - title: "Publications"
     url: /publications/ # https://scholar.google.com/citations?user=3v4r1p8AAAAJ&hl=en"
