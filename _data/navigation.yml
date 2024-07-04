@@ -9,14 +9,11 @@ main:
 #  - title: "Supervision"
 #    url: /supervision/    
     
-#  - title: "Portfolio"
-#    url: /portfolio/
+  - title: "Theses"
+    url: /theses/
 
   - title: "Publications"
     url: /publications/ # https://scholar.google.com/citations?user=3v4r1p8AAAAJ&hl=en"
     
   - title: "CV"
     url: /cv/
-    
-#  - title: "Guide"
-#    url: /markdown/
