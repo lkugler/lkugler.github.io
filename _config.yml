@@ -22,11 +22,11 @@ repository               : "academicpages/academicpages.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Dr. Lukas Kugler"
+  name             : "Lukas Kugler"
   pronouns         : # example: "she/her"  
-  bio              : "Data Assimilation of Satellite Observations for Numerical Weather Prediction"
-  location         : "Vienna, Austria"
-  employer         : # "University of Vienna"
+  bio              : "Postdoc in the Data Assimilation & Numerical Weather Prediction group"
+  location         : "Austria"
+  employer         : "University of Vienna"
   uri              : # URL
   email            : "lukas.kugler@univie.ac.at" 
 
