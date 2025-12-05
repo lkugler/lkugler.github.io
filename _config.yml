@@ -24,9 +24,9 @@ author:
   avatar           : "profile.png"
   name             : "Lukas Kugler"
   pronouns         : # example: "she/her"  
-  bio              : "Postdoctoral research scientist in the Data Assimilation & Numerical Weather Prediction group"
-  location         : "Austria"
-  employer         : "University of Vienna"
+  bio              : "Postdoctoral scientist, Fellow SMASH (MSCA-COFUND)"
+  location         : "Slovenia"
+  employer         : "University of Ljubljana"
   uri              : # URL
   email            : "lukas.kugler@univie.ac.at" 
 
@@ -65,7 +65,7 @@ author:
   steam            : # Username
   telegram         : # URL
   tumblr           : # Username
-  twitter          : "_lkugler"  # Username for X / Twitter
+  twitter          : # Username for X / Twitter
   vine             : # Username
   weibo            : # Username
   wikipedia        : # Username
