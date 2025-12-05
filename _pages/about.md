@@ -7,23 +7,17 @@ redirect_from:
   - /about.html
 ---
 
-I'm a research scientist in Meteorology. My goal is to improve our understanding of the processes that drive the weather so that we can advance weather prediction. We do that by using data assimilation (DA) methods. DA analyzes forecast errors, which are then projected onto corrections of the next forecast's initial conditions and corrections of the model's free parameters.
-
-From December 2025, I will work as [SMASH](https://smash.ung.si/) postdoc fellow at the University of Ljubljana.
-Until August 2025, I was working for the [DEPENDABLE](https://www.fwf.ac.at/forschungsradar/10.55776/P37259) project at the University of Vienna.
+I'm research scientist in Meteorology. Since December 2025, I'm [SMASH](https://smash.ung.si/) fellow at the University of Ljubljana, developing data assimilation (DA) methods for coupled Earth system models (ESM). Precise representation of ESM components and their interactions are required for accurate weather forecasting on medium to long timescales. Coupled ESMs can predict extreme weather events but rely on background-error covariance models for DA. Traditional methods struggle to capture nonlinear and multiscale error structures, limiting forecast precision. We  addresses these limitations by introducing a neural network-based covariance model. My research leverages variational autoencoders (VAEs) to transform innovations, prior errors, and observation errors into a nearly Gaussian latent space, enhancing assimilation performance. Unlike rigid, semi-empirical transformations, neural networks adapt to complex error structures, improving state estimates and forecasts. The model will be trained on reanalysis datasets to ensure robustness across diverse meteorological conditions. My project aims to advance weather forecasting,  benefiting sectors like agriculture, and energy.
 
 In my PhD (2020-2024), I studied the assimilation of cloud-affected satellite visible and infrared observations to improve convective-scale numerical weather prediction (i.e. small-scale storms). 
-My research has shown (1) that assimilating visible observations can improve storm forecasts to a baseline forecast;
-(2) that assimilating visible in addition to infrared observations can give a synergistic benefit that is better than either visible or infrared experiments;
-(3) that nonlinear observation operators lead to deviations of the posterior. The deviations were quantified and may pave the road for a potential nonlinearity correction scheme.
 
-My last talks:
+Selected talks:
 - 25 October 2024: International Symposium on Data Assimilation (Kobe, Japan), [see the schedule](https://www.data-assimilation.riken.jp/isda2024/#15/34.65479/135.22148).
 - 7 June 2024: Ambiguity and nonlinearity in the assimilation of visible and infrared observations. ISDA seminar series (online), [see the recording](https://www.youtube.com/watch?v=qM19Z6JMqsw&pp=ygUMbHVrYXMga3VnbGVy).
 
 My latest [publications](https://lkugler.github.io/publications).
 
-Last edit: 9 August 2025
+Last edit: 5 December 2025
 
 ## Theses
 See my [CV](https://lkugler.github.io/cv), [PhD thesis](https://lkugler.github.io/dissertation), [MSc thesis](https://lkugler.github.io/mthesis), and [BSc thesis](https://lkugler.github.io/bthesis).
